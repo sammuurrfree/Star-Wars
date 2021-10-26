@@ -1,0 +1,162 @@
+
+/* Class = "UILabel"; text = "Crew:"; ObjectID = "0NO-el-yaK"; */
+"0NO-el-yaK.text" = "Crew:";
+
+/* Class = "UILabel"; text = "Consumables:"; ObjectID = "0PP-gf-pSq"; */
+"0PP-gf-pSq.text" = "Consumables:";
+
+/* Class = "UILabel"; text = "Cargo capacity:"; ObjectID = "3nn-Fk-yWW"; */
+"3nn-Fk-yWW.text" = "Cargo capacity:";
+
+/* Class = "UILabel"; text = "Episode:"; ObjectID = "5lV-HQ-dz8"; */
+"5lV-HQ-dz8.text" = "Episode:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "6k4-fR-N1e"; */
+"6k4-fR-N1e.text" = "Name:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8RT-1Z-Y6Y"; */
+"8RT-1Z-Y6Y.text" = "Title";
+
+/* Class = "UILabel"; text = "Hair color:"; ObjectID = "9Ca-Bh-4Uh"; */
+"9Ca-Bh-4Uh.text" = "Hair color:";
+
+/* Class = "UILabel"; text = "Manufacturer"; ObjectID = "A9L-hf-U3k"; */
+"A9L-hf-U3k.text" = "Manufacturer";
+
+/* Class = "UILabel"; text = "sdsadsfdqwf"; ObjectID = "AP6-N1-IJ7"; */
+"AP6-N1-IJ7.text" = "sdsadsfdqwf";
+
+/* Class = "UILabel"; text = "Cargo capacity:"; ObjectID = "DSP-4n-ib4"; */
+"DSP-4n-ib4.text" = "Cargo capacity:";
+
+/* Class = "UILabel"; text = "Consumables:"; ObjectID = "Euh-yf-2u3"; */
+"Euh-yf-2u3.text" = "Consumables:";
+
+/* Class = "UILabel"; text = "Max speed:"; ObjectID = "Gry-p5-Oqh"; */
+"Gry-p5-Oqh.text" = "Max speed:";
+
+/* Class = "UILabel"; text = "Crew:"; ObjectID = "H5U-eu-Idi"; */
+"H5U-eu-Idi.text" = "Crew:";
+
+/* Class = "UILabel"; text = "Model:"; ObjectID = "I1r-Rb-EHv"; */
+"I1r-Rb-EHv.text" = "Model:";
+
+/* Class = "UILabel"; text = "Model:"; ObjectID = "K98-gP-zmA"; */
+"K98-gP-zmA.text" = "Model:";
+
+/* Class = "UILabel"; text = "Cost in credits:"; ObjectID = "MFy-Gx-clK"; */
+"MFy-Gx-clK.text" = "Cost in credits:";
+
+/* Class = "UILabel"; text = "fefefwefjoie2jwfoijeoijfwoijfoiejfoijweoifjwoiehfjoiwehfoi"; ObjectID = "P4Z-Cb-Ixi"; */
+"P4Z-Cb-Ixi.text" = "fefefwefjoie2jwfoijeoijfwoijfoiejfoijweoifjwoiehfjoiwehfoi";
+
+/* Class = "UILabel"; text = "Length:"; ObjectID = "R2y-vq-hlN"; */
+"R2y-vq-hlN.text" = "Length:";
+
+/* Class = "UILabel"; text = "sdsadsfdqwf"; ObjectID = "SWY-jp-dMY"; */
+"SWY-jp-dMY.text" = "sdsadsfdqwf";
+
+/* Class = "UILabel"; text = "Mass:"; ObjectID = "UMs-rM-Feq"; */
+"UMs-rM-Feq.text" = "Mass:";
+
+/* Class = "UILabel"; text = "Passengers:"; ObjectID = "VHJ-B8-UEa"; */
+"VHJ-B8-UEa.text" = "Passengers:";
+
+/* Class = "UINavigationItem"; title = "Star Wars"; ObjectID = "VLK-1H-zib"; */
+"VLK-1H-zib.title" = "Star Wars";
+
+/* Class = "UINavigationItem"; title = "Starships"; ObjectID = "VTv-WE-soh"; */
+"VTv-WE-soh.title" = "Starships";
+
+/* Class = "UILabel"; text = "Passengers:"; ObjectID = "XPI-iO-s9G"; */
+"XPI-iO-s9G.text" = "Passengers:";
+
+/* Class = "UINavigationItem"; title = "Vehicles"; ObjectID = "Xb1-5W-sX9"; */
+"Xb1-5W-sX9.title" = "Vehicles";
+
+/* Class = "UILabel"; text = "MGLT:"; ObjectID = "Y9N-H3-8wa"; */
+"Y9N-H3-8wa.text" = "MGLT:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "YKi-rk-71L"; */
+"YKi-rk-71L.text" = "Title";
+
+/* Class = "UILabel"; text = "Cost in credits:"; ObjectID = "Zmt-vv-n2e"; */
+"Zmt-vv-n2e.text" = "Cost in credits:";
+
+/* Class = "UILabel"; text = "Hyperdrive rating:"; ObjectID = "aLI-fL-MaV"; */
+"aLI-fL-MaV.text" = "Hyperdrive rating:";
+
+/* Class = "UILabel"; text = "sdsadsfdqwf"; ObjectID = "aXq-JJ-Cqx"; */
+"aXq-JJ-Cqx.text" = "sdsadsfdqwf";
+
+/* Class = "UILabel"; text = "Length:"; ObjectID = "atu-it-FC8"; */
+"atu-it-FC8.text" = "Length:";
+
+/* Class = "UILabel"; text = "Producer:"; ObjectID = "blX-eN-oFI"; */
+"blX-eN-oFI.text" = "Producer:";
+
+/* Class = "UIViewController"; title = "Vehicles"; ObjectID = "bpB-zk-ZQn"; */
+"bpB-zk-ZQn.title" = "Vehicles";
+
+/* Class = "UINavigationItem"; title = "Films"; ObjectID = "cVa-kq-6Vc"; */
+"cVa-kq-6Vc.title" = "Films";
+
+/* Class = "UILabel"; text = "xcdsfwhudyhquahwu9hdq9uwhd9qhwdi9u8hqwi9udh"; ObjectID = "cdD-yr-fhn"; */
+"cdD-yr-fhn.text" = "xcdsfwhudyhquahwu9hdq9uwhd9qhwdi9u8hqwi9udh";
+
+/* Class = "UILabel"; text = "Skin color:"; ObjectID = "gQc-pd-I8r"; */
+"gQc-pd-I8r.text" = "Skin color:";
+
+/* Class = "UILabel"; text = "Starship class:"; ObjectID = "gZN-Jo-LkD"; */
+"gZN-Jo-LkD.text" = "Starship class:";
+
+/* Class = "UILabel"; text = "Max speed:"; ObjectID = "hfn-EW-XWH"; */
+"hfn-EW-XWH.text" = "Max speed:";
+
+/* Class = "UILabel"; text = "Opening crawl"; ObjectID = "iJK-aW-m99"; */
+"iJK-aW-m99.text" = "Opening crawl";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "kAZ-K2-e3p"; */
+"kAZ-K2-e3p.text" = "Title:";
+
+/* Class = "UINavigationItem"; title = "People"; ObjectID = "kE5-wj-mb2"; */
+"kE5-wj-mb2.title" = "People";
+
+/* Class = "UILabel"; text = "xcdsfwhudyhquahwu9hdq9uwhd9qhwdi9u8hqwi9udh"; ObjectID = "l2l-bS-m5m"; */
+"l2l-bS-m5m.text" = "xcdsfwhudyhquahwu9hdq9uwhd9qhwdi9u8hqwi9udh";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lue-43-DG0"; */
+"lue-43-DG0.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lyb-22-w9M"; */
+"lyb-22-w9M.text" = "Title";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "mrR-9A-tbo"; */
+"mrR-9A-tbo.text" = "Gender:";
+
+/* Class = "UIViewController"; title = "Vehicles"; ObjectID = "nJV-bS-Ul7"; */
+"nJV-bS-Ul7.title" = "Vehicles";
+
+/* Class = "UIViewController"; title = "Starships"; ObjectID = "ole-ea-MfB"; */
+"ole-ea-MfB.title" = "Starships";
+
+/* Class = "UILabel"; text = "Director:"; ObjectID = "pJF-FS-xdZ"; */
+"pJF-FS-xdZ.text" = "Director:";
+
+/* Class = "UILabel"; text = "Eye color:"; ObjectID = "pek-5n-Z6U"; */
+"pek-5n-Z6U.text" = "Eye color:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "sMP-xM-u2H"; */
+"sMP-xM-u2H.text" = "Title";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "tKn-xP-OBH"; */
+"tKn-xP-OBH.text" = "Name:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "tt4-Uw-Dcl"; */
+"tt4-Uw-Dcl.text" = "Name:";
+
+/* Class = "UILabel"; text = "Max speed:"; ObjectID = "u1x-Q0-888"; */
+"u1x-Q0-888.text" = "Max speed:";
+
+/* Class = "UILabel"; text = "Vehicle class"; ObjectID = "wrh-Sg-qck"; */
+"wrh-Sg-qck.text" = "Vehicle class";
